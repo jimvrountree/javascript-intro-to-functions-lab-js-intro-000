@@ -19,5 +19,5 @@ function sayHiToGrandma(string) {
 
   return string.toUpperCase()
 
-  return string.mixedCase()
+  return string."I love you, Grandma."()
 }
